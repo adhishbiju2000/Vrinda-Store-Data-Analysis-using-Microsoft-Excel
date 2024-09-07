@@ -14,4 +14,13 @@ This project involved creating an annual sales report for Vrinda Store for the y
 6) Relation between age and gender based on number?
 7) which channel is contributing to maximum sales?
 8) Highest selling Category?
-
+#
+## Project Learing
+1) Data cleaning
+2) Data processing
+3) Data Analysis
+4) Data Visualization
+5) Report
+6) Insight
+#
+## Data 
