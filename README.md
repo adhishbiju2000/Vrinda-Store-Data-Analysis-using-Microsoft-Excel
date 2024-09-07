@@ -15,6 +15,20 @@ This project involved creating an annual sales report for Vrinda Store for the y
 7) which channel is contributing to maximum sales?
 8) Highest selling Category?
 #
+## Data cleaning
+1) Checking Duplicate and null values.
+2) But in Gender column there are some improper data format such as m for male and w for women.So we had to convert m to male and w to women.
+3) Rest the columns are proper format.
+
+ ## Data processing
+ 1) Created new coloum name Age Group
+   ----------- where below 18 are Teenager and above 18 to 50 are Adulit and 50 above are senior.
+ 2) We make a Month coloum
+   ----------- =TEXT (G2,"mmm")
+
+
+
+
 ## Project Learing
 1) Data cleaning
 2) Data processing
@@ -23,4 +37,3 @@ This project involved creating an annual sales report for Vrinda Store for the y
 5) Report
 6) Insight
 #
-## Data 
