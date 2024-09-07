@@ -25,32 +25,32 @@ This project involved creating an annual sales report for Vrinda Store for the y
    ----------- where below 18 are Teenager and above 18 to 50 are Adulit and 50 above are senior.
  2) We make a Month coloum
    ----------- =TEXT (G2,"mmm")
-
+#
 ## Data Analysis
-1) we use Pivot Table to anlaysis and Visualization of the data.
+Use Pivot Table to anlaysis and Visualization of the data.
 
-
+#
 ## Image of overall dashboard in xcel
 ![Vrinda Store Annual Report full image in Microsoft  xcel](https://github.com/user-attachments/assets/1819f2d7-9a9b-42f8-b59d-c58777f6f3f0)
-
+#
 ## Image of men and women chart
 ![Men Vs Women chart](https://github.com/user-attachments/assets/b6ea4321-a18f-43bb-ad96-e0db8b6084a2)
-
+#
 ## Image of Order Channel chart
 ![Order Channel Chart](https://github.com/user-attachments/assets/fd49ab40-84ee-44ec-b13f-331642b05eb6)
-
+#
 ## Image of Order Status chart
 ![Order Status chart](https://github.com/user-attachments/assets/c7c4e50d-2d93-4a19-ad14-90bdb76b8783)
-
+#
 ## Image of Order vs Sale chart
 ![Order vs Sale chart](https://github.com/user-attachments/assets/283f891f-1244-478d-8d2e-dc1222e2e2c8)
-
+#
 ## Image of Top 5 state chart
 ![Top 5 state chart](https://github.com/user-attachments/assets/cfa1f1ee-83a0-4b90-9c9b-86a02bfa0136)
-
+#
 ## Image of Sales Data of Vrinda Store in Data Analysis
 ![Sales Data of Vrinda Store in Data Analysis](https://github.com/user-attachments/assets/48f1a20a-d711-43e5-9318-163c5bf23b49)
-
+#
 ## Image of Vrinda Store Annual Report 2024
 ![Vrinda Store Annual Report 2024](https://github.com/user-attachments/assets/684eb7eb-e725-4fae-809b-8ca8fc02934d)
 
