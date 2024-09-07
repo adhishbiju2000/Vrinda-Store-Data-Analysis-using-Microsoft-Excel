@@ -61,5 +61,7 @@ Use Pivot Table to anlaysis and Visualization of the data.
 4) Data Visualization
 5) Report
 6) Insight
-
-## ------------------------------------------------------------Thank You ----------------------------------------------------------------
+#
+#
+#
+## -------------------Thank You ------------------
